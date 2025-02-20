@@ -839,11 +839,13 @@ section,
 
 .resume .resume-item h4 {
     font-size: 16px;
+    line-height: 24px;
 }
-
+  
 .resume .resume-item h5 {
     font-size: 15px;
 }
+  
 }
 
 .portfolio .portfolio-content {
