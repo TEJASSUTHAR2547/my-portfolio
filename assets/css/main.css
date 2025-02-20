@@ -799,6 +799,51 @@ section,
     font-size: 14px;
     margin: 0 5px;
   }
+  .hero {
+    height:auto;
+    min-height: 400px;
+}
+  section, .section {
+    padding: 40px 0;
+}
+  .about.section .section-title,.resume .section-title,.contact .section-title {
+    padding-bottom: 24px;
+}
+.about .content ul li {
+    padding-left: 20px;
+    position: relative;
+}
+
+.about .content ul i {
+    position: absolute;
+    left: 0;
+    top: 4px;
+}
+.portfolio .portfolio-filters {
+    display: flex;
+    white-space: nowrap;
+    overflow-x: auto;
+}
+
+.portfolio .portfolio-filters li {
+    margin: 0 10px;
+}
+
+.resume .resume-title {
+    font-size: 20px;
+}
+
+.resume .resume-item h3 {
+    font-size: 18px !important;!i;!;
+}
+
+.resume .resume-item h4 {
+    font-size: 16px;
+}
+
+.resume .resume-item h5 {
+    font-size: 15px;
+}
 }
 
 .portfolio .portfolio-content {
