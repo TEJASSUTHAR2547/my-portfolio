@@ -603,8 +603,9 @@ section,
 # About Section
 --------------------------------------------------------------*/
 .about .content h2 {
-  font-weight: 700;
-  font-size: 24px;
+    font-weight: 700;
+    font-size: 24px;
+    margin-bottom: 20px;
 }
 
 .about .content ul {
